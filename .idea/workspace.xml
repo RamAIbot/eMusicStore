@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="eMusicStore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4aaf0fdf-7a82-49b8-ae3d-466dba0e06eb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Project\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="jsf" />
+        <option value="spring-beans.schema" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="webflow.2_0" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UxdVoNCV4pXrTtdQ62W62FMN3x" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33584905" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\Project\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\Project\src\main\webapp\WEB-INF\resources" />
+      <recent name="D:\java\Project\src\main\webapp\WEB-INF\resources\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.12">
+    <configuration name="Tomcat 8.5.12" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8004/eMusicStore_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="eMusicStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/eMusicStore_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_eMusicStore_2" />
+        <option name="HTTP_PORT" value="8004" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55297" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="eMusicStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8009/eMusicStore_war_exploded/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="eMusicStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/eMusicStore_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_eMusicStore" />
+        <option name="HTTP_PORT" value="8009" />
+      </server-settings>
+      <log_file alias="Tomcat Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
+      <log_file alias="Tomcat Host Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" />
+      <log_file alias="Tomcat Localhost Access Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost_access_log.*" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59349" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="eMusicStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8.5.12" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.27" />
+    </list>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aaf0fdf-7a82-49b8-ae3d-466dba0e06eb" name="Default Changelist" comment="" />
+      <created>1576302206616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576302206616</updated>
+      <workItem from="1576302210901" duration="1464000" />
+      <workItem from="1576303752634" duration="1820000" />
+      <workItem from="1576307572262" duration="1805000" />
+      <workItem from="1576310769404" duration="2356000" />
+      <workItem from="1576320340310" duration="1537000" />
+      <workItem from="1576322477800" duration="1769000" />
+      <workItem from="1576324297218" duration="352000" />
+      <workItem from="1576340625520" duration="1562000" />
+      <workItem from="1576403305291" duration="1143000" />
+      <workItem from="1576460539826" duration="751000" />
+      <workItem from="1576461422007" duration="1943000" />
+      <workItem from="1576515555990" duration="1414000" />
+      <workItem from="1576546179995" duration="1752000" />
+      <workItem from="1576548143021" duration="1121000" />
+      <workItem from="1577252063673" duration="263000" />
+      <workItem from="1577262281454" duration="141000" />
+      <workItem from="1577262456425" duration="901000" />
+      <workItem from="1577269064603" duration="1993000" />
+      <workItem from="1577271436596" duration="1408000" />
+      <workItem from="1577272878272" duration="2129000" />
+      <workItem from="1577275756135" duration="1781000" />
+      <workItem from="1577278253717" duration="1836000" />
+      <workItem from="1577280332028" duration="1784000" />
+      <workItem from="1577282147679" duration="2125000" />
+      <workItem from="1577288729450" duration="2177000" />
+      <workItem from="1577290993287" duration="1815000" />
+      <workItem from="1577292880473" duration="978000" />
+      <workItem from="1577320119266" duration="1770000" />
+      <workItem from="1577322067881" duration="1765000" />
+      <workItem from="1577323899635" duration="1768000" />
+      <workItem from="1577325757578" duration="1762000" />
+      <workItem from="1577327621576" duration="1763000" />
+      <workItem from="1577329538912" duration="1383000" />
+      <workItem from="1577332607910" duration="1632000" />
+      <workItem from="1577335768664" duration="1039000" />
+      <workItem from="1577379669420" duration="1566000" />
+      <workItem from="1577381511692" duration="758000" />
+      <workItem from="1577464532029" duration="1634000" />
+      <workItem from="1577466239874" duration="1764000" />
+      <workItem from="1577468055127" duration="1192000" />
+      <workItem from="1577507472985" duration="1767000" />
+      <workItem from="1577509307491" duration="1698000" />
+      <workItem from="1577518206024" duration="1764000" />
+      <workItem from="1577520134883" duration="1770000" />
+      <workItem from="1577521990561" duration="1773000" />
+      <workItem from="1577523834926" duration="1773000" />
+      <workItem from="1577531329859" duration="1771000" />
+      <workItem from="1577540562568" duration="1747000" />
+      <workItem from="1577542378027" duration="1220000" />
+      <workItem from="1577594844781" duration="2173000" />
+      <workItem from="1577601396681" duration="1771000" />
+      <workItem from="1577603356361" duration="1615000" />
+      <workItem from="1577605476446" duration="1298000" />
+      <workItem from="1577607418365" duration="1723000" />
+      <workItem from="1577609292881" duration="1209000" />
+      <workItem from="1577618958782" duration="1881000" />
+      <workItem from="1577620914327" duration="1750000" />
+      <workItem from="1577622738398" duration="1281000" />
+      <workItem from="1577638451081" duration="1716000" />
+      <workItem from="1577724615649" duration="1708000" />
+      <workItem from="1577753389826" duration="1683000" />
+      <workItem from="1577755190478" duration="2301000" />
+      <workItem from="1577899138821" duration="1766000" />
+      <workItem from="1577982201623" duration="1776000" />
+      <workItem from="1577984167301" duration="1722000" />
+      <workItem from="1578070112211" duration="1413000" />
+      <workItem from="1578071906587" duration="161000" />
+      <workItem from="1578072146938" duration="763000" />
+      <workItem from="1578118005075" duration="599000" />
+      <workItem from="1578120495753" duration="1507000" />
+      <workItem from="1578122505075" duration="1554000" />
+      <workItem from="1578125358244" duration="2139000" />
+      <workItem from="1578232967239" duration="1853000" />
+      <workItem from="1578235834138" duration="2138000" />
+      <workItem from="1578238500049" duration="1766000" />
+      <workItem from="1578240323760" duration="1484000" />
+      <workItem from="1578330181228" duration="1743000" />
+      <workItem from="1578332009946" duration="790000" />
+      <workItem from="1578361418397" duration="1160000" />
+      <workItem from="1578756554783" duration="1753000" />
+      <workItem from="1578758356266" duration="1774000" />
+      <workItem from="1578760195040" duration="1768000" />
+      <workItem from="1578761995703" duration="588000" />
+      <workItem from="1578799755009" duration="1773000" />
+      <workItem from="1578803605381" duration="432000" />
+      <workItem from="1578897145792" duration="1763000" />
+      <workItem from="1578898943150" duration="1780000" />
+      <workItem from="1578900902890" duration="1777000" />
+      <workItem from="1578902761634" duration="1770000" />
+      <workItem from="1578904576878" duration="784000" />
+      <workItem from="1578907003251" duration="1167000" />
+      <workItem from="1579334460624" duration="1745000" />
+      <workItem from="1579336244768" duration="1778000" />
+      <workItem from="1579338464637" duration="1257000" />
+      <workItem from="1579363320465" duration="1722000" />
+      <workItem from="1579365142781" duration="196000" />
+      <workItem from="1579483662351" duration="1757000" />
+      <workItem from="1579485983303" duration="1243000" />
+      <workItem from="1579625954678" duration="1755000" />
+      <workItem from="1579955161000" duration="1378000" />
+      <workItem from="1584858176719" duration="1526000" />
+      <workItem from="1584860360466" duration="1778000" />
+      <workItem from="1584862579941" duration="751000" />
+      <workItem from="1584876672876" duration="705000" />
+      <workItem from="1587895445594" duration="944000" />
+      <workItem from="1588431664688" duration="1670000" />
+      <workItem from="1588433605417" duration="1179000" />
+      <workItem from="1589218261112" duration="371000" />
+      <workItem from="1591603358909" duration="120000" />
+      <workItem from="1597135293594" duration="326000" />
+      <workItem from="1597135658791" duration="1248000" />
+      <workItem from="1597145062643" duration="1751000" />
+      <workItem from="1597146958543" duration="1542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/emusicstore/controller/admin/AdminProduct.java</url>
+          <line>74</line>
+          <properties class="com.emusicstore.controller.admin.AdminProduct" method="editProductPost">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
