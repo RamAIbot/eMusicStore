@@ -27,7 +27,7 @@ An online eCommerce music store web app using spring MVC,hibernate,jsp,bootstrap
   ```
   
   <h2> Output Screen </h2>
-  <img src="web" alt="Web Page Image"/>
+  <img src="web.JPG" alt="Web Page Image"/>
   
   <h2> Future work </h2>
   <OL>
